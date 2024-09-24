@@ -1,10 +1,8 @@
-```markdown
+
 # User Search App
 ![screen](https://github.com/user-attachments/assets/0c6c3d26-fdfc-445b-bdd3-a576e9e8154f)
 ![screen-search](https://github.com/user-attachments/assets/fe2c7ecb-5c9b-4ef7-91c7-3a5dff8806de)
-
-
-
+```markdown
 ## Description
 
 This is a user search application developed with **React** as a test for an interview challenge. The goal of the project was to create an application that requests data from an API and displays user information, including their avatars and job titles.
