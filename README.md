@@ -79,8 +79,8 @@ Contributions are welcome! If you would like to contribute, please follow these 
 
 For questions or suggestions, feel free to reach out:
 
-- **Ravel Silva**: [your-email@example.com](mailto:contatoravelsilva@gmail.com)
-- **GitHub**: [your_username](https://github.com/ravelsilva)
+- **Ravel Silva**: [contatoravelsilva@gmail.com](mailto:contatoravelsilva@gmail.com)
+- **GitHub**: [Ravel Silva](https://github.com/ravelsilva)
 ```
 
 ### Instructions
