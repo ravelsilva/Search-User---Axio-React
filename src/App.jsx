@@ -26,10 +26,9 @@ function App() {
 	return (
 		<>
 			<div className="container">
-				<h1>User Register</h1>
+				<h1>SEARCH USER</h1>
 				<Search user={users} />
 			</div>
-			
 		</>
 	);
 }

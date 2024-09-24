@@ -13,15 +13,14 @@ const Search = (props) => {
 
 	return (
 		<>
-			<div>
+			<div className='searchInput'>
 				{' '}
-				<label htmlFor="search-id">Search user:</label>
 				<input
 					className="search-input"
 					type="text"
 					id="search-id"
 					value={search}
-					placeholder="Search user..."
+					placeholder="Enter username here..."
 					onChange={(e) => setSearch(e.target.value)}
 				/>
 			</div>
