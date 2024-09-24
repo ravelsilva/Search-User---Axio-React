@@ -1,5 +1,3 @@
-Sure! Here’s the `README.md` in English, with additional details about the project and its purpose, including information about the interview challenge:
-
 ```markdown
 # User Search App
 ![screen](https://github.com/user-attachments/assets/0c6c3d26-fdfc-445b-bdd3-a576e9e8154f)
